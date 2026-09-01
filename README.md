@@ -69,6 +69,7 @@ Feel free to use, modify, and distribute with attribution.
 
 - [@talhaFASTCr123](https://github.com/talhaFASTCr123)
 - [@mustafaSal95](https://github.com/mustafaSal95)
+- [@ahmad1khan2](https://github.com/ahmad1khan2)
 ---
 
 ## 📌 Notes
